@@ -1,4 +1,4 @@
-﻿# MonthlySalesProfit-API-Csharp 🚀 🔄 🌐
+﻿# MonthlySalesProfit-API-Csharp 🚀 🔄 🌐 
 
 Codificação de APIRest que se chama `MonthlySalesProfit` é uma aplicação ASP.NET Core que fornece endpoints para calcular e obter informações
 sobre o lucro de produtos de tecnologia. A aplicação permite que os usuários determinem qual produto 
