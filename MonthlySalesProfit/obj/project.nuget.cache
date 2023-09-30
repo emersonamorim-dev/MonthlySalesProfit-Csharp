@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lEWh4dZTUsJtrri9lGil705FHdBDRSa0zdhdtVCr0n5S7FmWQh09F0UJoOrI9vm27yI42rERQEtUZZg6SLXyhA==",
+  "dgSpecHash": "50YcKwsg/SiOFpD9E9qFoSroZlLCyfYdcUESzUZJvdwLbv1rERcDEEZayfz2MC6f97nXB/ytl+r/1UsGdoSNmQ==",
   "success": true,
-  "projectFilePath": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfit\\MonthlySalesProfit\\MonthlySalesProfit.csproj",
+  "projectFilePath": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfitApi-Csharp\\MonthlySalesProfit\\MonthlySalesProfit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EmersonLas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\EmersonLas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

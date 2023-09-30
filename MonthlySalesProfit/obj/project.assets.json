@@ -532,11 +532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfit\\MonthlySalesProfit\\MonthlySalesProfit.csproj",
+      "projectUniqueName": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfitApi-Csharp\\MonthlySalesProfit\\MonthlySalesProfit.csproj",
       "projectName": "MonthlySalesProfit",
-      "projectPath": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfit\\MonthlySalesProfit\\MonthlySalesProfit.csproj",
+      "projectPath": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfitApi-Csharp\\MonthlySalesProfit\\MonthlySalesProfit.csproj",
       "packagesPath": "C:\\Users\\EmersonLas\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfit\\MonthlySalesProfit\\obj\\",
+      "outputPath": "D:\\projetos\\projetos-csharp\\18\\MonthlySalesProfitApi-Csharp\\MonthlySalesProfit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
