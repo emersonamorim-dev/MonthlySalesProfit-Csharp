@@ -3,6 +3,7 @@
 Codificação de APIRest que se chama `MonthlySalesProfit` é uma aplicação ASP.NET Core que fornece endpoints para calcular e obter informações
 sobre o lucro de produtos de tecnologia. A aplicação permite que os usuários determinem qual produto 
 gerou mais lucro, qual gerou menos lucro, e também o lucro total de todos os produtos.
+Implementado o uso de testes unitários XUnit é um conjunto de testes para o serviço ProdutoService.
 
 ## Funcionalidades
 
